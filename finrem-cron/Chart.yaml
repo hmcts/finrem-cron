@@ -3,10 +3,10 @@ description: Financial Remedy cron jobs
 home: https://github.com/hmcts/finrem-cron
 apiVersion: v2
 appVersion: "1.0"
-version: 0.0.22
+version: 0.0.23
 maintainers:
   - name: HMCTS Financial Remedy Team
 dependencies:
   - name: job
-    version: 2.1.1
-    repository: https://hmctspublic.azurecr.io/helm/v1/repo/
+    version: 2.2.0
+    repository: oci://hmctspublic.azurecr.io/helm
