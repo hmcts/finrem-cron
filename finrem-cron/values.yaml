@@ -1,5 +1,5 @@
 job:
-  image: hmctspublic.azurecr.io/finrem/cos:latest
+  image: hmctsprod.azurecr.io/finrem/cos:latest
   aadIdentityName: finrem
   keyVaults:
     finrem:
