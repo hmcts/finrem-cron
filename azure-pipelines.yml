@@ -43,3 +43,5 @@ jobs:
           chartName: finrem-cron
           chartReleaseName: finrem-cron
           chartNamespace: chart-tests
+          aksCluster: cft-preview-00-aks
+          aksResourceGroup: cft-preview-00-rg
